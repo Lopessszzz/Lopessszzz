@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulo Henrique Lopes
+- 👋 Hi, I’m Paulo Henrique Lopes de Jesus
 - 👀 I’m interested in programming languages and cyber security
 - 🌱 I’m currently learning JavaScript, AWS and SQL.
 - 💞️ I’m looking to make my first project
