@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paulo Henrique Lopes de Jesus
-- 👀 I’m interested in programming languages and cyber security
-- 🌱 I’m currently learning JavaScript, AWS and SQL.
-- 💞️ I’m looking to make my first project
+- 👀 I’m interested in programming languages, cyber security and systems development
+- 🌱 I’m currently learning JavaScript, C# and SQL
+- 💞️ You can see my projects here
 - 📫 How to reach me: paulo.lopes2703@gmail.com
 
 <!---
