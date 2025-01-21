@@ -5,6 +5,7 @@
 - 📫 How to reach me: paulo.lopes2703@gmail.com
 
 🛠️ Technologies & Tools
+
 Front-End
 JavaScript TypeScript React NextJS TailwindCSS 
 
