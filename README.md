@@ -6,16 +6,20 @@
 
 🛠️ Technologies & Tools
 
-Front-End
+|Front-End|
+
 JavaScript TypeScript React NextJS TailwindCSS 
 
-Back-End
+|Back-End|
+
 Node.js C# .NET Core
 
-DevOps
+|DevOps|
+
 Docker
 
-Databases
+|Databases|
+
 MySQL MongoDB
 
 <!---
