@@ -34,9 +34,10 @@
 
 ## 🗄 |Databases|
 
+<p>
 <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="40" height="40"/>
-
+</p>
 
 
 ## 📊 Estatísticas Avançadas
