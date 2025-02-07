@@ -32,8 +32,9 @@
 
 
 ## 📊 Estatísticas Avançadas
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lopessszzz&theme=github_dark)
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lopessszzz&theme=github_dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lopessszzz&show_icons=true&theme=github_dark)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lopessszzz&layout=compact&theme=github_dark)
 
 
 <!---
