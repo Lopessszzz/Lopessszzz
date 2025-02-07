@@ -20,7 +20,7 @@
 ## 🛠 |Back-End|
 
 <p>
-  <img src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)" width="40" height="40" alt="Node.js"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" height="40" alt="C#"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968321.png" width="40" height="40" alt=".NET"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1487/1487341.png" width="40" height="40" alt="API"/>
@@ -30,7 +30,7 @@
 
 ## 🚀 |DevOps|
 
-<img src="https://camo.githubusercontent.com/a422588398b164985160882354c9955831952a26c48971f11467406836961446/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" width="40" height="40"/>
+<img src="[https://camo.githubusercontent.com/a422588398b164985160882354c9955831952a26c48971f11467406836961446/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)" width="40" height="40"/>
 
 ## 🗄 |Databases|
 
