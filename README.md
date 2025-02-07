@@ -30,11 +30,11 @@
 
 ## 🚀 |DevOps|
 
-<img src="[https://camo.githubusercontent.com/a422588398b164985160882354c9955831952a26c48971f11467406836961446/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" height="40"/>
 
 ## 🗄 |Databases|
 
-<img src="https://camo.githubusercontent.com/15949688536f980175b9f93933c16a695123d2402283a00a430678d462002237/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c2d7365727665722f73716c2d7365727665722d6f726967696e616c2e737667" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="40" height="40"/>
 
 
