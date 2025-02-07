@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript, C# and SQL
 - 💞️ You can see my projects here
 - 📫 How to reach me: paulo.lopes2703@gmail.com
+- You can check my portfolio if you want:
+<a target="_blank" href="https://lopessszzz.github.io/Portfolio-Paulo-Jesus/">My Portfolio</a>
 
 🛠️ Technologies & Tools
 
