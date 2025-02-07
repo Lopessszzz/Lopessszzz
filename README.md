@@ -19,12 +19,15 @@
 
 ## 🛠 |Back-End|
 
+## 🛠 |Back-End|
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40"/>
-</p>]
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" height="40" alt="C#"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968321.png" width="40" height="40" alt=".NET"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1487/1487341.png" width="40" height="40" alt="API"/>
+</p>
+
 
 
 ## 🚀 |DevOps|
