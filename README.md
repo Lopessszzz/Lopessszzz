@@ -32,9 +32,13 @@
 
 
 ## 📊 Estatísticas Avançadas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lopessszzz&show_icons=true&theme=github_dark)
 
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lopessszzz&theme=github_dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lopessszzz&show_icons=true&theme=github_dark&count_private=true)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lopessszzz&layout=compact&theme=github_dark)
+
+
+
 
 
 <!---
